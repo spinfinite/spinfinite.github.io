@@ -1,0 +1,46 @@
+h1 {    
+    width: 100%;
+    color: rgb(89, 91, 143);
+    background-color: rgb(223, 226, 217);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+h2 {    
+    width: 100%;
+    color: rgb(89, 91, 143);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+div {
+    background-color:blue;
+}
+
+img{
+    background-color: black;
+}
+
+p {
+
+    font-weight: 1000;
+    font-size: 2em;
+    color:white;
+    margin: 20;
+}
+
+button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
